@@ -5,6 +5,6 @@
     android:id="@+id/activity_leak"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.kangmao.app.ui.LeakActivity">
+    tools:context="com.kangmao.app.ui.activity.LeakActivity">
 
 </android.support.constraint.ConstraintLayout>

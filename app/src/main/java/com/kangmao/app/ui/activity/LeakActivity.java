@@ -1,4 +1,4 @@
-package com.kangmao.app.ui;
+package com.kangmao.app.ui.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

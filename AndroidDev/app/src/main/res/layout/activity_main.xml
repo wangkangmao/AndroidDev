@@ -6,7 +6,7 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.kangmao.app.ui.MainActivity">
+    tools:context="com.kangmao.app.ui.activity.MainActivity">
 
     <Button
         android:id="@+id/btn_main"
